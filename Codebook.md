@@ -5,7 +5,7 @@ Comparing to the features provided in the initial samsumg dataset, the generated
 	* activity : the name of the activity performed
 	* subject : the ID of the subject corresponding to this line
 
-The following variables correspond to features already present in the initial data set but renamed by removing "-" and parenthesis.
+The following variables correspond to features already present in the initial data set but renamed by removing "-" characters and parenthesis:
 
 	* tBodyAccMeanX
 	* tBodyAccMeanY
